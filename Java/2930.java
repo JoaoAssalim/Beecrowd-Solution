@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String s = scanner.nextLine();
-        String[] ns = s.split(" ")
+        String[] ns = s.split(" ");
         int total = Integer.parseInt(ns[1]) - Integer.parseInt(ns[0]);
 
         if(total >= 3){
