@@ -14,4 +14,6 @@
 > Python 3.9
 > C++17
 > C99
+> SQL
+> Java
 ```
